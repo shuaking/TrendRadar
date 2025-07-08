@@ -2451,6 +2451,9 @@ class NewsAnalyzer:
             ("ifeng", "凤凰网"),
             "tieba",
             "weibo",
+            "linuxdo",
+            "_36kr"
+            "sspai"
             "douyin",
             "zhihu",
         ]
