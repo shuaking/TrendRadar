@@ -2452,8 +2452,8 @@ class NewsAnalyzer:
             "tieba",
             "weibo",
             "linuxdo",
-            "_36kr"
-            "sspai"
+            "_36kr",
+            "sspai",
             "douyin",
             "zhihu",
         ]
