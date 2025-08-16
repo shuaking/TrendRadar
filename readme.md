@@ -2,7 +2,7 @@
 
 # 🎯TrendRadar
 
-<strong>🚀 最快一分钟部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯</strong>
+🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
@@ -25,6 +25,51 @@
 > 遇到问题提 issues，或【硅基茶水间】公众号留言
 >
 > **Fork** 的同时，如果觉得有帮助，请顺手点个 ⭐️ **Star**，感谢支持
+
+<details>
+<summary>👉 点击查看<strong>致谢名单 (当前 12 个)</strong></summary>
+
+### 数据支持
+
+本项目使用了 [newsnow](https://github.com/ourongxing/newsnow) 项目提供的 API 接口获取多平台数据
+
+### 推广助力
+
+> 感谢以下平台和个人的推荐(按时间排列)，以及各微信群，qq群等给到这个项目帮助的人
+
+- [小众软件](https://mp.weixin.qq.com/s/fvutkJ_NPUelSW9OGK39aA) - 开源软件推荐平台
+- [LinuxDo 社区](https://linux.do/) - 技术爱好者的聚集地
+- [阮一峰周刊](https://github.com/ruanyf/weekly) - 技术圈有影响力的周刊
+
+### 观众支持
+
+> 感谢以下热心观众的信任与支持
+
+|           点赞人            |  金额  |  日期  |             备注             |
+| :-------------------------: | :----: | :----: | :-----------------------: |
+|           2*D            |  88  | 2025.8.13 下午 |           |
+|           2*D            |  1  | 2025.8.13 上午 |           |
+|           S*o            |  1  | 2025.8.05 |   支持一下        |
+|           *侠            |  10  | 2025.8.04 |           |
+|           x*x            |  2  | 2025.8.03 |  trendRadar 好项目 点赞          |
+|           *远            |  1  | 2025.8.01 |            |
+|           *邪            |  5  | 2025.8.01 |            |
+|           *梦            |  0.1  | 2025.7.30 |            |
+|           **龙            |  10  | 2025.7.29 |      支持一下      |
+
+<details>
+<summary><strong>👉 "手机推送通知系列" 挖坑</strong></summary>
+<br>
+
+截图中只支持一个渠道，大家有什么好的建议和想法可以公众号留言，完善好后开源
+
+<img src="_image/next.jpg" width="300" title="github"/>
+
+</details>
+
+
+</details>
+
 
 ## ✨ 核心功能
 
@@ -64,7 +109,11 @@
 
 GitHub 一键 Fork 即可使用，无需编程基础。
 
-> 如果要手机接收通知， 要达到 1 分钟部署完毕的效果，请选择**企业微信**
+> 30秒部署： GitHub Pages（网页浏览）
+>
+> 1分钟部署： 企业微信（手机通知）
+
+**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://sansan0.github.io/TrendRadar/)。
 
 ### **减少 APP 依赖**
 
@@ -74,15 +123,12 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 **典型场景：** 股市投资监控、品牌舆情追踪、行业动态关注、生活资讯获取
 
-**💡 提示：** 想要**实时更新**的网页版？进入你的仓库 Settings → Pages，启用 GitHub Pages。比如我这里[TrendRadar](https://sansan0.github.io/TrendRadar/)。
-
-
 | Github Pages效果 | 飞书推送效果 |
 |:---:|:---:|
 | ![Github Pages效果](_image/github-pages.png) | ![飞书推送效果](_image/feishu.jpg) |
 
 <details>
-<summary><strong>👉 点击查看推送格式说明</strong></summary>
+<summary><strong>👉 推送格式说明</strong></summary>
 
 ## 📊 输出示例
 
@@ -116,6 +162,23 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 </details>
 
 ## 📝 更新日志
+
+<details>
+<summary><strong>👉 项目相关推荐</strong></summary>
+<br>
+
+> 附项目相关的两篇文章，欢迎留言交流
+
+- [2个月破 1000 star，我的GitHub项目推广实战经验](https://mp.weixin.qq.com/s/jzn0vLiQFX408opcfpPPxQ)
+- [基于本项目，如何开展公众号或者新闻资讯类文章写作](https://mp.weixin.qq.com/s/8ghyfDAtQZjLrnWTQabYOQ)
+
+>**AI 开发：**
+- 如果你有小众需求，完全可以基于我的项目自行开发，零编程基础的也可以试试
+- 我所有的开源项目或多或少都使用了自己写的**AI辅助软件**来提升开发效率，这款工具已开源
+- **核心功能**：迅速筛选项目代码喂给AI，你只需要补充个人需求即可
+- **项目地址**：[https://github.com/sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper)
+
+</details>
 
 >**升级说明：** 
 - **小版本更新**：直接在 GitHub 网页编辑器中，用本项目的 `main.py` 代码替换你 fork 仓库中的对应文件 
@@ -621,18 +684,6 @@ platforms:
 
 </div>
 
-感谢以下热心观众的点赞
-
-|           点赞人            |  金额  |  日期  |             备注             |
-| :-------------------------: | :----: | :----: | :-----------------------: |
-|           S*o            |  1  | 2025.8.05 |   支持一下        |
-|           *侠            |  10  | 2025.8.04 |           |
-|           x*x            |  2  | 2025.8.03 |  trendRadar 好项目 点赞          |
-|           *远            |  1  | 2025.8.01 |            |
-|           *邪            |  5  | 2025.8.01 |            |
-|           *梦            |  0.1  | 2025.7.30 |            |
-|           **龙            |  10  | 2025.7.29 |      支持一下      |
-
 <details>
 <summary><strong>👉 微信推送通知的折中方案</strong></summary>
 <br>
@@ -642,37 +693,9 @@ platforms:
 - fork 这位兄台的项目 https://github.com/jayzqj/TrendRadar
 - 完成上方的企业微信推送设置 
 - 按照下面图片操作
-<img src="_image/wework.png"  title="github"/>
-
 - 配置好后，手机上的企业微信 app 删除掉也没事
 
-</details>
-
-<details>
-<summary><strong>👉 自荐</strong></summary>
-<br>
-
-> 附项目相关的两篇文章，欢迎留言交流
-
-- [2个月破 1000 star，我的GitHub项目推广实战经验](https://mp.weixin.qq.com/s/jzn0vLiQFX408opcfpPPxQ)
-- [基于本项目，如何开展公众号或者新闻资讯类文章写作](https://mp.weixin.qq.com/s/8ghyfDAtQZjLrnWTQabYOQ)
-
->**AI 开发：**
-- 如果你有小众需求，完全可以基于我的项目自行开发，零编程基础的也可以试试
-- 我所有的开源项目或多或少都使用了自己写的**AI辅助软件**来提升开发效率，这款工具已开源
-- **核心功能**：迅速筛选项目代码喂给AI，你只需要补充个人需求即可
-- **项目地址**：[https://github.com/sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper)
-
-</details>
-
-<details>
-<summary><strong>👉 "手机推送通知系列"之新项目挖坑预告</strong></summary>
-<br>
-我很豪横地拿诸位的点赞，买了一瓶 15.5 元的柠檬汁
-
-截图中只支持一个渠道，我想顺便扩展功能，比如某些项目的更新监控，大家有什么好的建议可以公众号留言，完善后开源
-
-<img src="_image/next.jpg" width="300" title="github"/>
+<img src="_image/wework.png"  title="github"/>
 
 </details>
 
@@ -722,9 +745,6 @@ flowchart TD
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
 
-## 🙏 致谢
-
-本项目使用了 [newsnow](https://github.com/ourongxing/newsnow) 提供的 API 服务，感谢其提供的数据支持。
 
 ## 📄 许可证
 
